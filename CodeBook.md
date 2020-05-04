@@ -14,17 +14,17 @@ File with R code "run_analysis.R" performs those previous 5 steps.
 DESCRIPTION
 
 Id variables
-The first two columns - Subject and Activity - are Identifiers
-*subjectId: the ID of the Subject
-*activityId: the Name of the Activity performed by the subject when measurements were taken
+The first two columns - Subject and Activity - are Identifiers:
+subjectId: the ID of the Subject
+activityId: the Name of the Activity performed by the subject when measurements were taken
 
 Measurements
 All the remaining variables are the calculatd means and standard deviations of these sets of data.
 Some of these measurements:
-*tBodyAccMeanX
-*tBodyAccMeanY
-*tBodyAccMeanZ
-*tBodyAccStdX
-*tBodyAccStdY
-*tBodyAccStdZ
-*...
+tBodyAccMeanX
+tBodyAccMeanY
+tBodyAccMeanZ
+tBodyAccStdX
+tBodyAccStdY
+tBodyAccStdZ
+...
